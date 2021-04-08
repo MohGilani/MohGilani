@@ -1,0 +1,17 @@
+- 👋 Hi, I’m @MohGilani
+- 👀 I’m interested in: 
+  - Algorithm and Data Structure
+  - Functional programming: Scala
+  - Actor model of concurrency: Akka, Actix
+  - NoSQL: Cassandra, ElasticSearch, BigTable, RocksDB, ... 
+  - Big data: Spark, Flink, Kafka, Pulsar
+  - Platform: K8s 
+- 🌱 I’m currently learning: 
+  - Golang 
+  - Antifragility
+  - Data Mesh 
+- 💞️ I’m looking to collaborate on: any project! 
+- 📫 How to reach me: 
+  - Email: `mhsedighi` at `gmail` dot `com`
+  - Email: `mohammadhossein` dot `sedighigilani` at `shopify` dot `com`
+
